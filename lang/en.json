@@ -1,0 +1,20 @@
+{
+    "title": "Run",
+    "message_label": "Type the name of a program, folder, document, or internet resource you want to open.",
+    "name_label": "Name:",
+    "ok_button": "OK",
+    "cancel_button": "Cancel",
+    "browse_button": "Browse...",
+    "file_dialog_title": "Select a file",
+    "admin_execution_prompt": "Do you want to run this with administrator privileges? (Beta)",
+    "error_title": "Error",
+    "error_command_execution_failed": "Failed to execute '{command}'.\nError: {error}",
+    "error_command_not_found": "File or command not found: {command}",
+    "error_unexpected": "An unexpected error occurred:\n{error}",
+    "stdout_title": "Standard Output:",
+    "stderr_title": "Standard Error Output:",
+    "interrupted_message": "Interrupted by the user.",
+    "app_exit_message": "Exiting the application.",
+    "creation_error": "An error occurred while creating the launcher window: {error}",
+    "creation_failure_message": "Failed to create the launcher window. Exiting."
+}

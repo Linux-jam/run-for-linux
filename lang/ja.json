@@ -1,0 +1,23 @@
+{
+    "window_title": "ファイル名を指定して実行",
+    "message_label": "実行するプログラム名、または開くフォルダーやドキュメント名、インターネット リソース名を入力してください。",
+    "name_label": "名前(O):",
+    "ok_button": "OK",
+    "cancel_button": "キャンセル",
+    "browse_button": "参照(B)...",
+    "file_dialog_title": "ファイルを選択",
+    "error_title": "エラー",
+    "command_error_message": "'{command}' の実行に失敗しました。\nエラー: {error}",
+    "command_error_label": "コマンド実行エラー",
+    "stdout_message": "標準出力:",
+    "stderr_message": "標準エラー出力:",
+    "stderr_label": "エラー出力",
+    "file_not_found_message": "ファイルまたはコマンドが見つかりません: {command}",
+    "unexpected_error_message": "予期せぬエラーが発生しました:\n{error}",
+    "admin_prompt_title": "管理者権限で実行",
+    "admin_prompt_message": "管理者権限で実行しますか？(β)",
+    "create_window_error_message": "起動画面作成中にエラーが発生しました: {error}",
+    "create_window_fail_message": "起動画面の作成に失敗しました。終了します。",
+    "user_interrupt_message": "ユーザーによって中断されました。",
+    "app_exit_message": "アプリケーションを終了します。"
+}

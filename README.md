@@ -42,10 +42,10 @@ Check out our [Issues](https://github.com/Linux-jam/run-for-linux/issues) page f
 Want to help make Run for Linux accessible to more users? We're looking for volunteers to translate this README and other docs into other languages (e.g., Japanese, Spanish, etc.). If you're interested, comment on our [Translation Issue](https://github.com/Linux-jam/run-for-linux/issues) or reach out!
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GPL 3.0](LICENSE).
 
 ## Contact
-Got questions or ideas? Open an issue or connect with us on [X](https://x.com/LinuxJam)!
+Got questions or ideas? Open an issue or connect with us on [it](https://github.com/Linux-jam/run-for-linux/discussions)!
 
 ---
 

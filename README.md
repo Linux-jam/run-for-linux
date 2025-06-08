@@ -5,7 +5,7 @@ Run for Linux brings the familiar Windows 10 "Run" dialog (Ctrl+R) to Linux! Thi
 
 ## Features
 - **Quick Launch**: Open apps, files, or directories with a single command.
-- **Keyboard-Driven**: Trigger the dialog with Ctrl+R, just like Windows.
+~~- **Keyboard-Driven**: Trigger the dialog with Ctrl+R, just like Windows.~~
 - **Lightweight**: Minimal resource usage, perfect for any Linux distro.
 - **Customizable**: Configure shortcuts or extend functionality to suit your workflow.
 

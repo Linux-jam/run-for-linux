@@ -1,0 +1,20 @@
+{
+    "title": "Ejecutar",
+    "message_label": "Escribir el nombre de programa, carpeta, documento, o recurso de Internet que quieres abrir.",
+    "name_label": "Nombre:",
+    "ok_button": "OK",
+    "cancel_button": "Cancelar",
+    "browse_button": "Explorar...",
+    "file_dialog_title": "Seleccionar un archivo",
+    "admin_execution_prompt": "Queries ejecutar esto con privilegios administrativos? (Beta)",
+    "error_title": "Error",
+    "error_command_execution_failed": "Falló al ejecutar '{command}'.\nError: {error}",
+    "error_command_not_found": "Archivo o comando no encontrado: {command}",
+    "error_unexpected": "Ocurrió un error inesperado:\n{error}",
+    "stdout_title": "Salida estándar:",
+    "stderr_title": "Salida estándar de error:",
+    "interrupted_message": "Interrumpido por el usuario.",
+    "app_exit_message": "Saliendo el aplicación.",
+    "creation_error": "Ocurrió un error cuando creado la ventana de iniciador: {error}",
+    "creation_failure_message": "Falló al crear la ventana de iniciador. Saliendo."
+}
